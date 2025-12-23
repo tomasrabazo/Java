@@ -1,0 +1,40 @@
+package javase.tutorial.java.generics.nonReifiableVarargsType;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class ArrayBuilder {
+	
+	public static <T> void addToList(List<T> listArg, T... elements){
+		for (T x : elements){
+			listArg.add(x);
+		}
+	}
+	
+	public static void faultyMethod(List<String>... l){
+		Object[] objectArray = l;
+		objectArray[0] = Arrays.asList(42);
+		String s = l[0].get(0);
+		
+	}
+	
+	public static void main(String args[]){
+		
+		List<String> stringListA = new ArrayList<String>();
+		List<String> stringListB = new ArrayList<String>();
+		
+		ArrayBuilder.addToList(stringListA, "A","B","C");
+		ArrayBuilder.addToList(stringListB, "D","E","F");
+		
+		Object[] objectArray = {stringListA, stringListB};
+			
+		List<List<String>> listofStringLists = new ArrayList<List<String>>();
+		
+		ArrayBuilder.addToList(listofStringLists, stringListA, stringListB);
+		
+		ArrayBuilder.faultyMethod(Arrays.asList("Hello!"), Arrays.asList("World!"));
+		
+	}
+
+}

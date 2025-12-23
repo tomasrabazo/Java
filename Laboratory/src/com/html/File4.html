@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	</head>
+	<body>
+		<!-- 
+		<span>
+		<table border="1" style="width:100%">
+		  <tr>
+		    <td>Jill</td>
+		    <td>Smith</td>		
+		  </tr>
+		  <tr>
+		    <td>Eve</td>
+		    <td>Jackson</td>		
+		  </tr>
+		  <tr>
+		    <td>Tijd</td>
+		    <td>
+				<table border="1" style="width:100%">
+				  <tr>
+				    <td>Jill</td>
+				    <td>Smith</td>		
+				  </tr>
+				</table>	    
+		    </td>		
+		  </tr>
+		</table>
+		</span>
+		 -->
+		<span>
+		</span>
+	
+		<script>		
+
+	        var cellLeft = '<td class=""></td>';
+        	var cellRight = '<td class=""></td>';
+			/*
+            koersBody.append($('<tr></tr>')
+                    .append(
+	                    $(cellLeft).html($i18n('time_tableHeader')))
+                    .append(
+    	                $(cellRight).addClass(issueId + "-LastTime")
+    	            .append(span)));
+            */
+
+            
+            $('span').append(
+                    			$('<table border="1" style="width:100%"></table>')
+                     			.append(
+                             			$('<tr></tr>').append($('<td></td>').html('hola'))
+                             			              .append($('<td></td>').html('adios'))
+                             		   )
+                            	.append(
+                                		$('<tr></tr>').append($('<td></td>').html('hola'))
+                                		              .append($('<td></td>').html('adios'))
+                                	   )
+                                .append(
+                                  		$('<tr></tr>').append($('<td></td>').html('Tijd'))
+                                  					  .append($('<td></td>').append(
+						                                          					$('<table border="1" style="width:100%"></table>')
+						                                          					.append(
+						                                                  					$('<tr></tr>').append($('<td></td>').html('15:42:12'))
+						                                        										  .append($('<td></td>').html('R'))          					
+						                                                          		   )
+						                                                           )
+                                   	   						 )
+                                   	  )                                	                                		  
+                     		);            		
+//                	.append($(cellLeft).html($i18n('time_tableHeader')))
+//                    .append($(cellRight).addClass(issueId + "-LastTime").append('<table></table>')  ));
+        	/*
+            $('span').append($('<tr></tr>').append('<table></table>')            		
+                	.append($(cellLeft).html($i18n('time_tableHeader')))
+                    .append($(cellRight).addClass(issueId + "-LastTime").append('<table></table>')  ));
+            */
+    			
+		</script>
+	
+	</body>
+</html>
