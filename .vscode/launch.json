@@ -1,0 +1,802 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "javaloopsII.Solution",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "javaloopsII.Solution",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "sumnumbertheory.solution.Solution",
+            "projectName": "IBM"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "fizzbuzz.solution.Solution"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "waystosum.solution.Solution"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "lesson2.Arrays.CyclicRotation.Solution"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "waystosum.solution.Solution",
+            "projectName": "IBM"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "fizzbuzz.solution.Solution",
+            "projectName": "IBM"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "waystosum.solution.Solution",
+            "projectName": "IBM"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "lesson1.Iterations.BinaryGap.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(1)",
+            "request": "launch",
+            "mainClass": "lesson2.Arrays.CyclicRotation.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(2)",
+            "request": "launch",
+            "mainClass": "lesson2.Arrays.OddOccurrencesInArray.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(3)",
+            "request": "launch",
+            "mainClass": "lesson3.TimeComplexity.FrogImp.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(4)",
+            "request": "launch",
+            "mainClass": "lesson3.TimeComplexity.PermMissingElem.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(5)",
+            "request": "launch",
+            "mainClass": "lesson3.TimeComplexity.TapeEquilibrium.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(6)",
+            "request": "launch",
+            "mainClass": "lesson4.CountingElements.FrogRiverOne.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(7)",
+            "request": "launch",
+            "mainClass": "lesson4.CountingElements.MaxCounters.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(8)",
+            "request": "launch",
+            "mainClass": "lesson4.CountingElements.MissingInteger.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(9)",
+            "request": "launch",
+            "mainClass": "lesson4.CountingElements.PermCheck.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(10)",
+            "request": "launch",
+            "mainClass": "lesson5.PrefixSums.CountDiv.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "NumArray",
+            "request": "launch",
+            "mainClass": "lesson5.PrefixSums.NumArray",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Solution(11)",
+            "request": "launch",
+            "mainClass": "lesson5.PrefixSums.PassingCars.Solution",
+            "projectName": "Codility"
+        },
+        {
+            "type": "java",
+            "name": "Basket",
+            "request": "launch",
+            "mainClass": "com.test5.Basket",
+            "projectName": "JobRepublic"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "com.test6.test1",
+            "projectName": "JobRepublic"
+        },
+        {
+            "type": "java",
+            "name": "Combinations",
+            "request": "launch",
+            "mainClass": "com.Combinations",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Lab0",
+            "request": "launch",
+            "mainClass": "com.Lab0",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Lab1",
+            "request": "launch",
+            "mainClass": "com.Lab1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Lab2",
+            "request": "launch",
+            "mainClass": "com.Lab2",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Lab3",
+            "request": "launch",
+            "mainClass": "com.Lab3",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Lab5",
+            "request": "launch",
+            "mainClass": "com.Lab5",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Lab6",
+            "request": "launch",
+            "mainClass": "com.Lab6",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(12)",
+            "request": "launch",
+            "mainClass": "com.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "com.collection.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "HashMapExample",
+            "request": "launch",
+            "mainClass": "com.concurrent.example1.HashMapExample",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "TestThread",
+            "request": "launch",
+            "mainClass": "com.concurrent.example1.TestThread",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(13)",
+            "request": "launch",
+            "mainClass": "com.countdiv.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(1)",
+            "request": "launch",
+            "mainClass": "com.encode.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(2)",
+            "request": "launch",
+            "mainClass": "com.enumexamples.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(14)",
+            "request": "launch",
+            "mainClass": "com.frog.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(15)",
+            "request": "launch",
+            "mainClass": "com.frog2.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(3)",
+            "request": "launch",
+            "mainClass": "com.generics.Target.Types.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(4)",
+            "request": "launch",
+            "mainClass": "com.generics.Type.Inference.and.Generic.Constructors.of.Generic.and.NonGeneric.Classes.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(5)",
+            "request": "launch",
+            "mainClass": "com.generics.Upper.Bounded.Wildcards.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Box",
+            "request": "launch",
+            "mainClass": "com.generics.example1.Box",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "GenericMethodTest",
+            "request": "launch",
+            "mainClass": "com.generics.example1.GenericMethodTest",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "MaximumTest",
+            "request": "launch",
+            "mainClass": "com.generics.example1.MaximumTest",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Box(1)",
+            "request": "launch",
+            "mainClass": "com.generics.example3.Box",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "CountGreater",
+            "request": "launch",
+            "mainClass": "com.generics.example4.CountGreater",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "BoxDemo",
+            "request": "launch",
+            "mainClass": "com.generics.typeInference.BoxDemo",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "TypeInference1",
+            "request": "launch",
+            "mainClass": "com.generics.typeInference.TypeInference1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(6)",
+            "request": "launch",
+            "mainClass": "com.generics.typeInferenceAndInstantiationOfGenericClasses.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(16)",
+            "request": "launch",
+            "mainClass": "com.maxcounters.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(17)",
+            "request": "launch",
+            "mainClass": "com.missing.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(18)",
+            "request": "launch",
+            "mainClass": "com.missingInteger.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "PermCheck",
+            "request": "launch",
+            "mainClass": "com.permcheck.PermCheck",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(19)",
+            "request": "launch",
+            "mainClass": "com.permutation.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution2",
+            "request": "launch",
+            "mainClass": "com.permutation.Solution2",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "AnimalEating",
+            "request": "launch",
+            "mainClass": "com.polymorphism.AnimalEating",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "com.staticExample.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "RunMyThread",
+            "request": "launch",
+            "mainClass": "com.thread.RunMyThread",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Thread1",
+            "request": "launch",
+            "mainClass": "com.thread.Thread1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "ThreadExample1",
+            "request": "launch",
+            "mainClass": "com.thread.ThreadExample1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "MyThreadJoin",
+            "request": "launch",
+            "mainClass": "com.thread.join.MyThreadJoin",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Consumer",
+            "request": "launch",
+            "mainClass": "com.thread.prodcons.Consumer",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "MyThreadYield",
+            "request": "launch",
+            "mainClass": "com.thread.yield.MyThreadYield",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "TreeMap1",
+            "request": "launch",
+            "mainClass": "com.treemap.TreeMap1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "TreeSet1",
+            "request": "launch",
+            "mainClass": "com.treeset.TreeSet1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Vector1",
+            "request": "launch",
+            "mainClass": "com.vector.Vector1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution(20)",
+            "request": "launch",
+            "mainClass": "com.verybigsum.Solution",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Solution2(1)",
+            "request": "launch",
+            "mainClass": "com.verybigsum.Solution2",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(7)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.QandE.genericsQuestions.Example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.QandE.genericsQuestions.Test",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Box(2)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.bounded.Box",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(1)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.boundedTypeParams.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(2)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.bridgeMethods.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(3)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.capture.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "WildcardError",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.capture.WildcardError",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "BoxDemo(1)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.genTypeInference.BoxDemo",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(4)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.genTypeInference.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(5)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.inheritance.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(6)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.lowerBounded.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(7)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.methods.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBuilder",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.nonReifiableVarargsType.ArrayBuilder",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(8)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.restrictions.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(9)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.subtyping.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(10)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.types.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(11)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.types.MultipleTypeParameters.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example2",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.types.MultipleTypeParameters.Example2",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "WarningDemo",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.types.MultipleTypeParameters.WarningDemo",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(12)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.unboundedWildcards.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(13)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.upperBounded.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "example1",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.why.example1",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example(14)",
+            "request": "launch",
+            "mainClass": "javase.tutorial.java.generics.wildcardGuidelines.Example",
+            "projectName": "Laboratory"
+        },
+        {
+            "type": "java",
+            "name": "Example1(8)",
+            "request": "launch",
+            "mainClass": "com.comparable.comparator.Example1",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Bubble1",
+            "request": "launch",
+            "mainClass": "com.sort.bubble.Bubble1",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Merge1",
+            "request": "launch",
+            "mainClass": "com.sort.merge.Merge1",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort1",
+            "request": "launch",
+            "mainClass": "com.sort.quicksort.QuickSort1",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Class1",
+            "request": "launch",
+            "mainClass": "com.test1.Class1",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Class2",
+            "request": "launch",
+            "mainClass": "com.test1.Class2",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Class3",
+            "request": "launch",
+            "mainClass": "com.test1.Class3",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Class4",
+            "request": "launch",
+            "mainClass": "com.test1.Class4",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Class5",
+            "request": "launch",
+            "mainClass": "com.test1.Class5",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Class6",
+            "request": "launch",
+            "mainClass": "com.test1.Class6",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "OhMummy",
+            "request": "launch",
+            "mainClass": "game.OhMummy",
+            "projectName": "Test"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Chapter01.Calculator",
+            "projectName": "Threads"
+        },
+        {
+            "type": "java",
+            "name": "Calculator2",
+            "request": "launch",
+            "mainClass": "Chapter01.Calculator2",
+            "projectName": "Threads"
+        },
+        {
+            "type": "java",
+            "name": "EmitLog",
+            "request": "launch",
+            "mainClass": "artifact1.EmitLog",
+            "projectName": "artifact1"
+        },
+        {
+            "type": "java",
+            "name": "AverageTest",
+            "request": "launch",
+            "mainClass": "com.bryantcs.examples.syntaxExample.AverageTest",
+            "projectName": "chapter2.1"
+        },
+        {
+            "type": "java",
+            "name": "ClassVersionChecker",
+            "request": "launch",
+            "mainClass": "com.inspiresoftware.lib.dto.geda.utils.ClassVersionChecker",
+            "projectName": "geda.examples.2"
+        },
+        {
+            "type": "java",
+            "name": "JOSEUtil",
+            "request": "launch",
+            "mainClass": "jose.JOSEUtil",
+            "projectName": "jose"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.App",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Project0",
+            "request": "launch",
+            "mainClass": "com.project0.app.my_project0.Project0",
+            "projectName": "my-project0"
+        }
+    ]
+}
