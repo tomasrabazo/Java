@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>hide demo</title>
+		<style>
+			p {
+				background: #dad;
+				font-weight: bold;
+			}
+			#errmsg,#errmsg-hd-edition,#errmsg-hd-creation {
+				color: red;
+			}	 
+		</style>
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	</head>
+	<body>
+		<button>Hide 'em</button>
+		<p>Hiya</p>
+		<p>Such interesting text, eh?</p>
+	
+		<table>
+			<tr>
+				<td>Account:</td>
+				<td><input id="accountId" size="11" maxlength="11" /></td>
+				<td><p id="message" class="errmsg">Account not found.</p></td>
+			</tr>
+		</table>
+		
+		<script>
+			$( "button" ).click(function() {
+				$("#message").hide( "slow" );			
+			});
+		</script>
+	</body>
+</html>
