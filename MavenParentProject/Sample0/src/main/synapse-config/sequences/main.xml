@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="main" xmlns="http://ws.apache.org/ns/synapse">
+  <in>
+    <!-- log all attributes of messages passing through -->
+    <log level="full"/>
+    <!-- Send the message to implicit destination -->
+    <send/>
+  </in>
+  <out>
+    <log level="full"/>
+    <!-- log all attributes of messages passing through -->
+    <send/>
+  </out>
+</sequence>

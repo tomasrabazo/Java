@@ -1,0 +1,63 @@
+package com.mycompany.app;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	private int tlf = 0;
+	
+<<<<<<< .working
+	private String name;		
+=======
+	private String name;		
+	private String surname;
+>>>>>>> .merge-right.r17
+	
+<<<<<<< .working
+    public int getTlf() {
+		return tlf;
+=======
+    public int getTlf() {
+		return tlf;
+	}
+
+	public void setTlf(int tlf) {
+		this.tlf = tlf;
+	}
+
+	public String getName() {
+		return name;
+>>>>>>> .merge-right.r17
+	}
+
+	public void setTlf(int tlf) {
+		this.tlf = tlf;
+	}		
+
+<<<<<<< .working
+	public String getName() {
+		return name;
+=======
+	public String getSurname() {
+		return surname;
+>>>>>>> .merge-right.r17
+	}
+
+<<<<<<< .working
+	public void setName(String name) {
+		this.name = name;
+=======
+	public void setSurname(String surname) {
+		this.surname = surname;
+>>>>>>> .merge-right.r17
+	}
+
+	public static void main( String[] args )
+    {
+    	App app = new App(); 
+    	app.setTlf(9);
+        System.out.println( "Hello World! " + app.getTlf());
+    }
+}
