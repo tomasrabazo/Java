@@ -1,0 +1,2 @@
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/webflow\:/Laboratory/WebFlowDefFile.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<graph>\n<element clazz\="ViewStateModelElement" type\="view-state">\n<structure end\="340" endstart\="327" start\="302" startend\="325"/>\n<bounds height\="86" width\="90" x\="19" y\="17"/>\n</element>\n</graph>
+eclipse.preferences.version=1
