@@ -1,3 +1,5 @@
+package hr.stdinstdout;
+
 import java.util.Scanner;
 
 public class Solution {

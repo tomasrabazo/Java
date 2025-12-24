@@ -8,8 +8,7 @@
             "type": "java",
             "name": "Solution",
             "request": "launch",
-            "mainClass": "javaloopsII.Solution",
-            "projectName": ""
+            "mainClass": "javaloopsII.Solution"
         },
         {
             "type": "java",
