@@ -1,1 +1,3 @@
 fix-invalid-paths.sh
+target/
+**/target/
